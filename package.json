@@ -1,0 +1,16 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "showtime README.md -p ${PORT}",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "devDependencies": {
+    "showtime": "^1.1.1"
+  }
+}
