@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "showtime": "^1.1.1"
+  },
+  "dependencies": {
+    "showtime": "^1.1.1"
   }
 }
