@@ -103,7 +103,7 @@ https://alestic.com/2015/05/aws-lambda-recurring-schedule/
 
 ! http://cdn.meme.am/instances/500x/54175628.jpg
 
---- 
+---
 
 ! http://img.youtube.com/vi/INP1uuOYU3E/0.jpg
 
@@ -122,9 +122,11 @@ https://alestic.com/2015/05/aws-lambda-recurring-schedule/
 
 ```
 npm i node-lambda -g
-# https://github.com/rebelmail/node-lambda
+https://github.com/rebelmail/node-lambda
+
 npm i aws-sdk 
-# http://aws.amazon.com/sdk-for-node-js/
+http://aws.amazon.com/sdk-for-node-js/
+```
 
 ---
 
